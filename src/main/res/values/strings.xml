@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">myTesting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="typeOfClothes">
+        <item>Blouse</item>
+        <item>Trousers</item>
+        <item>Dress</item>
+        <item>Skirt</item>
+        <item>Shoes</item>
+        <item>Accessories</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Pink</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Orange</item>
+        <item>Black</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>Braun</item>
+        <item>Purple</item>
+        <item>Gold</item>
+        <item>Silver</item>
+    </string-array>
+</resources>
